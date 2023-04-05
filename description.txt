@@ -1,0 +1,8 @@
+This python file is built for alloment algorithm and optimize cronjob for Didongviet company.
+
+''' It will create various of excel files balance the number in the Inventory of all 64 stores in Viet Nam
+base in 2 rounds.
+-First round: run in HoChiMinh and Hanoi and the exceed quantity will move to HO (Head Office).
+-Second round: the Head Office will redeliver to all the store which lacked the amount of good.
+
+purpose: automation the data to reduce numerous of workloads for employees. '''
